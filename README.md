@@ -22,20 +22,6 @@ It dynamically adapts to **Beginner**, **Intermediate**, and **Expert** levels u
 * **Frontend:** HTML, CSS, JavaScript
 * **Others:** IBM Cloud APIs, REST API integration
 
-## 📂 Folder Structure
-
-```
-Concept_simplifier/
-│-- app.py
-│-- requirements.txt
-│-- README.md
-│-- Project_Screenshot/
-│   ├── home.png
-│   ├── output.png
-│   └── banner.png
-└── IBM_AICTE_PROJECT.pdf
-```
-
 ## 🗺 Future Enhancements
 
 * 🌏 Multi-language support
