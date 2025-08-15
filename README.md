@@ -18,7 +18,7 @@ It dynamically adapts to **Beginner**, **Intermediate**, and **Expert** levels u
 
 ## 🛠 Tech Stack
 
-* **Backend:** IBM Watsonx.ai, Python, Flask
+* **Backend:** IBM Watsonx.ai
 * **Frontend:** HTML, CSS, JavaScript
 * **Others:** IBM Cloud APIs, REST API integration
 
